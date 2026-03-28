@@ -147,17 +147,6 @@ roam/
 
 ---
 
-## Environment Variables
-
-```bash
-# .env
-ANTHROPIC_API_KEY=
-GOOGLE_MAPS_API_KEY=
-PORT=3001
-```
-
----
-
 ## Getting Started
 
 ```bash
